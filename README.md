@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nkemdibe Okweye</h1>
 <h3 align="center">I’m a Data Science & Analytics graduate student at Georgetown University, passionate about turning data into insights and building tools that solve real-world problems.</h3>
 
-- 🌱 I’m currently learning ** Machine Learning
-                            ** Advanced SQL & database modeling**
+- 🌱 I’m currently learning:
+  - Machine Learning
+  - Advanced SQL & database modeling
 
 - 👨‍💻 Recent projects: [https://nko123.github.io/index.html](https://nko123.github.io/index.html)
 
-- 💬 Ask me about **Data wrangling in Python/R 
-                  **Power BI dashboards & automation**
+- 💬 Ask me about:
+  - Data wrangling in Python/R
+  - Power BI dashboards & automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

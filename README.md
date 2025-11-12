@@ -9,7 +9,7 @@
 
 - 💬 Ask me about:
   - Data wrangling in Python/R
-  - Power BI dashboards & automation**
+  - Power BI dashboards & automation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
